@@ -1,0 +1,23 @@
+{
+  "name": "fasproject_functionalitytestscripts",
+  "version": "1.0.0",
+  "description": "This is for Playwright scripts using Type Script.\r Testing purposes",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UNimushakavi/FASProject_FunctionalityTestScripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/UNimushakavi/FASProject_FunctionalityTestScripts/issues"
+  },
+  "homepage": "https://github.com/UNimushakavi/FASProject_FunctionalityTestScripts#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.2"
+  }
+}
